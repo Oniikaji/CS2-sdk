@@ -1,0 +1,11 @@
+D:/CLionprojects/Alysscheat/cmake-build-debug/CMakeFiles/Alysscheat.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/CMakeFiles/edit_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/CMakeFiles/rebuild_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/imgui/CMakeFiles/IMGUI_LIB.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/imgui/CMakeFiles/edit_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/imgui/CMakeFiles/rebuild_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/minhook/CMakeFiles/MINHOOK_LIB.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/minhook/CMakeFiles/edit_cache.dir
+D:/CLionprojects/Alysscheat/cmake-build-debug/ext/minhook/CMakeFiles/rebuild_cache.dir

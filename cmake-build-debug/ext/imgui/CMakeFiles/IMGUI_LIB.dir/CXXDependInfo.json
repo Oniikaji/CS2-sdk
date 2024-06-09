@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/CLionprojects/Alysscheat/cmake-build-debug/ext/imgui",
+	"dir-cur-src" : "D:/CLionprojects/Alysscheat/ext/imgui",
+	"dir-top-bld" : "D:/CLionprojects/Alysscheat/cmake-build-debug",
+	"dir-top-src" : "D:/CLionprojects/Alysscheat",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\CLionprojects\\Alysscheat\\ext\\imgui",
+		"D:\\CLionprojects\\Alysscheat\\ext\\minhook"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/CLionprojects/Alysscheat/cmake-build-debug/ext/imgui/CMakeFiles/IMGUI_LIB.dir"
+}
